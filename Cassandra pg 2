@@ -100,7 +100,6 @@ Starting copy of library.library_info with columns [stud_id, book_id, stud_name,
 book_name, date_of_issue, counter_value].
 Process ImportProcess-256: 1 rows/s; Avg. rate: 1 rows/s
 
-15
 
 cqlsh:library> select * from library_info;
 
